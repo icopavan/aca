@@ -1,9 +1,6 @@
 # Audio Content Analysis
+###### TU Berlin
+######  Audio Communication Group
 ###### SoSe16
-
-## TU Berlin
-## Audio Communication Group
-
-
 
 Ja, ich bin es.
